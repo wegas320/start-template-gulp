@@ -1,0 +1,1 @@
+"use strict";var n=new function n(s,t){!function(n,s){if(!(n instanceof s))throw new TypeError("Cannot call a class as a function")}(this,n),this.name=s,this.age=t}("serg",24);console.log(n);
